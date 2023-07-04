@@ -19,7 +19,7 @@ Major objectives evaluated in this project are:-
 5.	Examining the data to reveal the states that had the highest sales contribution, highlighting the top five.
 6.	Assessing the association between age and gender and its impact on the order count.
 7.	Identifying the channel that contributes the most to sales.
-8.	Analyzing the sales data to find the category with the maximum sales.
+8.	Analyzing the sales data to find the category with the maximum sales.<br>
 The project leverages various Excel features, formulas, and visualization tools to present the data in a meaningful way and extract key insights. It is designed to be a flexible and scalable solution that can be customized to accommodate specific analysis requirements and provide actionable recommendations based on the findings.
 
 ## Features
