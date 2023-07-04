@@ -10,7 +10,7 @@ This repository contains a data analytics project implemented using Microsoft Ex
 - [Insight](#insight)
 
 ## Project Description
-The S&S Stores Annual Report 2022 Excel Data Analytics Project focuses on utilizing the power of Microsoft Excel to analyze and interpret the financial data presented in the annual report of S&S Stores. The project aims to provide valuable insights and perform comprehensive data analysis to evaluate the financial performance, identify trends, and support decision-making processes.
+The S&S Stores Annual Report 2022 Excel Data Analytics Project focuses on utilizing the power of Microsoft Excel to analyze and interpret the financial data presented in the annual report of S&S Stores. The project aims to provide valuable insights and perform comprehensive data analysis to evaluate the financial performance, identify trends, and support decision-making processes.<br>
 Major objectives evaluated in this project are:-
 1.	Contrasting sales and orders using single chart.
 2.	Ascertaining the months that exhibited the highest sales and orders.
